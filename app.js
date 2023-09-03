@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use("/api/v1/tasks", tasks);
 app.use(notFound);
-PORT =  3000;
+PORT =  3000 || process.env.PORT;
 
 const start = async () => {
   try {
