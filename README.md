@@ -3,7 +3,7 @@
 
  Task Manager MERN app.
 
- ###Features<br>
+Features-<br>
  1.User can create and edit tasks.
  2.Data is stored permanently on MongoDB.
  3.API endpoints are managed by using Express.
