@@ -18,7 +18,8 @@ Features-<br>
 
 ## Technologies Used
 
-**Store Front-End:**  ReactJS, HTML, CSS, JavaScript, NodeJS, Express, MongoDB.
+**Front-End:**- HTML, CSS, JavaScript.
+**Back-End:**- JavaScript, NodeJS, Express, MongoDB.
 
 
 ## Acknowledgements
