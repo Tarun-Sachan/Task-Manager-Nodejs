@@ -18,7 +18,7 @@ Features-<br>
 
 ## Technologies Used
 
-**Front-End:**- HTML, CSS, JavaScript.
+**Front-End:**- HTML, CSS, JavaScript.<br>
 **Back-End:**- JavaScript, NodeJS, Express, MongoDB.
 
 
