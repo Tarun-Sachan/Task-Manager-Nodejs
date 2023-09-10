@@ -8,8 +8,8 @@ Features-<br>
  2.Data is stored permanently on MongoDB.<br>
  3.API endpoints are managed by using Express.
  
+![Screenshot 2023-09-10 at 12-51-26 Task Manager](https://github.com/Tarun-Sachan/Task-Manager-Nodejs/assets/117214735/2708bc30-d82a-41f9-9dd8-e523da8acf53)
 
-![Screenshot 2023-09-10 at 12-39-47 Task Manager](https://github.com/Tarun-Sachan/redux-toolkit-Blog/assets/117214735/e92f3cc7-984e-4e9f-aa10-4774cc69f0f4)
 
 
 ![Screenshot 2023-09-10 at 12-39-56 Edit Task](https://github.com/Tarun-Sachan/redux-toolkit-Blog/assets/117214735/4f09e2a2-47ed-4710-8b84-52ca69ee38ba)
